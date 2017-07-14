@@ -1,0 +1,14 @@
+<EmployeeList>
+    <Employee>
+        <name>aashish</name>
+        <email>aashish.mishra88@gmail.com</email>
+    </Employee>
+    <Employee>
+        <name>Shreya</name>
+        <email>shreya.bharadwaj@gmail.com</email>
+    </Employee>
+   <Employee>
+       <name>Randhir</name>
+       <email>randhir@gmail.com</email>
+   </Employee>
+</EmployeeList>
